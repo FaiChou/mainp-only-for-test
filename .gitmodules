@@ -1,0 +1,3 @@
+[submodule "subp"]
+	path = subp
+	url = git@github.com:FaiChou/subp-only-for-test.git
